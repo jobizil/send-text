@@ -18,4 +18,4 @@ $ yarn dev || yarn start
 
 ## App Info
 
-You will need to add your own Nexmo api key, secret and test number
+For this app to work, you will need to add your own Nexmo api key, secret and a test number
